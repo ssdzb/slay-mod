@@ -1,0 +1,4 @@
+1、打开杀戮尖塔2所在文件夹，如果没有mods文件夹就新建一个
+2、将MOD文件夹中的所有文件复制并粘贴到mods文件夹内
+3、启动游戏，设置界面-游戏设置-Modding 模组设置
+4、勾选Necrobinder Osty Anim Mod、Necrobinder Osty Visuals Mod、Rest Site Fondle Cursor  Mod，重启游戏即可
